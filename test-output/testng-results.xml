@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-01T03:45:14 AST" name="Default suite" finished-at="2024-08-01T03:45:25 AST" duration-ms="11618">
+    <groups>
+    </groups>
+    <test started-at="2024-08-01T03:45:14 AST" name="Default test" finished-at="2024-08-01T03:45:25 AST" duration-ms="11618">
+      <class name="localPortTest.LocalPortTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:localPortTest.LocalPortTest@c7a975a]" started-at="2024-08-01T03:45:14 AST" name="setup" finished-at="2024-08-01T03:45:14 AST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="submitTest()[pri:1, instance:localPortTest.LocalPortTest@c7a975a]" started-at="2024-08-01T03:45:14 AST" name="submitTest" finished-at="2024-08-01T03:45:15 AST" duration-ms="1023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitTest -->
+        <test-method signature="resetTest()[pri:2, instance:localPortTest.LocalPortTest@c7a975a]" started-at="2024-08-01T03:45:15 AST" name="resetTest" finished-at="2024-08-01T03:45:16 AST" duration-ms="573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetTest -->
+        <test-method signature="imageTest()[pri:3, instance:localPortTest.LocalPortTest@c7a975a]" started-at="2024-08-01T03:45:16 AST" name="imageTest" finished-at="2024-08-01T03:45:22 AST" duration-ms="6509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imageTest -->
+        <test-method signature="linksTest()[pri:4, instance:localPortTest.LocalPortTest@c7a975a]" started-at="2024-08-01T03:45:22 AST" name="linksTest" finished-at="2024-08-01T03:45:25 AST" duration-ms="3186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linksTest -->
+      </class> <!-- localPortTest.LocalPortTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
